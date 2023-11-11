@@ -177,4 +177,5 @@ conditie && <element dat weergegeven moet worden als TRUE>
 ```
 
 Voor de `?` plaats je de conditie die getoetst wordt (is de tv uitverkocht?). Als de conditie waar is, toon je het
-plaatje door dit element achter de `&&` te zetten (zonder '').
+plaatje door dit element achter de `&&` te zetten (zonder '').#   F r o n t e n d _ W e e k 9 H W _ T e c h I t E a s y  
+ 
